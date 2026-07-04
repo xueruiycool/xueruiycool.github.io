@@ -5,19 +5,25 @@ permalink: /publications/
 author_profile: false
 ---
 
-{% if site.author.googlescholar %}
-<p>You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
-{% endif %}
-
 <style>
-.pub-list { margin-top: 1.2em; }
-.pub-entry { margin-bottom: 1em; line-height: 1.4; }
-.pub-entry .pub-title { font-size: 0.9em; font-weight: 600; }
-.pub-entry .pub-title a { text-decoration: none; }
-.pub-entry .pub-title a:hover { text-decoration: underline; }
-.pub-entry .pub-meta { font-size: 0.8em; color: #6b6b6b; }
-.pub-entry .pub-note { font-size: 0.8em; color: #6b6b6b; font-style: italic; margin-top: 0.15em; }
+.pub-profiles{margin:0.2em 0 1.4em;font-size:0.95em;}
+.pub-profiles a{text-decoration:none;margin-right:0.6em;}
+.pub-profiles a:hover{text-decoration:underline;}
+.pub-profiles .ai-google-scholar{color:#4285F4;}
+.pub-profiles .ai-orcid{color:#A6CE39;}
+.pub-list{margin-top:1.2em;}
+.pub-entry{margin-bottom:1em;line-height:1.4;}
+.pub-entry .pub-title{font-size:0.9em;font-weight:600;}
+.pub-entry .pub-title a{text-decoration:none;}
+.pub-entry .pub-title a:hover{text-decoration:underline;}
+.pub-entry .pub-meta{font-size:0.8em;color:#6b6b6b;}
+.pub-entry .pub-note{font-size:0.8em;color:#6b6b6b;font-style:italic;margin-top:0.15em;}
 </style>
+
+<p class="pub-profiles">
+  {% if author.googlescholar %}<a href="{{ author.googlescholar }}" target="_blank" rel="noopener"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a>{% endif %}
+  {% if author.orcid %}&middot; <a href="{{ author.orcid }}" target="_blank" rel="noopener"><i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a>{% endif %}
+</p>
 
 <div class="pub-list">
 {% for post in site.publications reversed %}
