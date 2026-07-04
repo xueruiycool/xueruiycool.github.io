@@ -22,7 +22,7 @@ repository               : "xueruiycool/xueruiycool.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"   # drop your headshot at /images/profile.png
+  avatar           : "profile.jpeg"   # drop your headshot at /images/profile.png
   name             : "Xuerui Yang"
   pronouns         : # example: "she/her"
   bio              : "Postdoctoral Associate in Community Food Systems at UF/IFAS. I study food safety economics, household food waste, and sustainable food systems."
