@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID&user=7qTsdXIAAAAJ"   # <-- PASTE your real Scholar profile URL
+  googlescholar    : "https://scholar.google.com/citations?user=7qTsdXIAAAAJ"   # <-- PASTE your real Scholar profile URL
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # <-- PASTE your ORCID URL if you have one, e.g. https://orcid.org/0000-0000-0000-0000
