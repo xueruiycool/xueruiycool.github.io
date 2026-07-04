@@ -42,6 +42,6 @@ redirect_from:
     </p>
   </div>
   <div class="hero-photo">
-    <img src="/images/profile.jpg" alt="Xuerui Yang">
+    <img src="/images/profile.jpeg" alt="Xuerui Yang">
   </div>
 </div>
