@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: false
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css">
+
 <style>
 .pub-profiles{margin:0.2em 0 1.4em;font-size:0.95em;}
-.pub-profiles a{text-decoration:none;}
+.pub-profiles a{display:inline-flex;align-items:center;gap:0.35em;text-decoration:none;}
 .pub-profiles a:hover{text-decoration:underline;}
+.pub-profiles i{font-size:1.2em;line-height:1;}
 .pub-profiles .sep{color:#b0b0b0;margin:0 0.45em;}
+
 .pub-list{margin-top:1.2em;}
 .pub-entry{margin-bottom:1em;line-height:1.4;}
 .pub-entry .pub-title{font-size:0.9em;font-weight:600;}
@@ -20,16 +24,39 @@ author_profile: false
 </style>
 
 <p class="pub-profiles">
-  {% if author.googlescholar %}<a href="{{ author.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a>{% endif %}
-  {% if author.orcid %}<span class="sep">·</span><a href="{{ author.orcid }}" target="_blank" rel="noopener">ORCID</a>{% endif %}
+  {% if site.author.googlescholar %}
+    <a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">
+      <i class="ai ai-google-scholar-square" aria-hidden="true"></i>
+      <span>Google Scholar</span>
+    </a>
+  {% endif %}
+
+  {% if site.author.googlescholar and site.author.orcid %}
+    <span class="sep">·</span>
+  {% endif %}
+
+  {% if site.author.orcid %}
+    <a href="{{ site.author.orcid }}" target="_blank" rel="noopener">
+      <i class="ai ai-orcid" aria-hidden="true"></i>
+      <span>ORCID</span>
+    </a>
+  {% endif %}
 </p>
 
 <div class="pub-list">
 {% for post in site.publications reversed %}
   <div class="pub-entry">
-    <div class="pub-title">{% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}</div>
+    <div class="pub-title">
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" target="_blank" rel="noopener">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </div>
     <div class="pub-meta">{{ post.venue }}, {{ post.date | date: "%Y" }}</div>
-    {% if post.note %}<div class="pub-note">{{ post.note }}</div>{% endif %}
+    {% if post.note %}
+      <div class="pub-note">{{ post.note }}</div>
+    {% endif %}
   </div>
 {% endfor %}
 </div>
