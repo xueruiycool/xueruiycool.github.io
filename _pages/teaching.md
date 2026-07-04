@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching & Extension"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 ## Teaching Interests
