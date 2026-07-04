@@ -18,8 +18,23 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
-<!-- rounded-rectangle sidebar avatar (instead of the default circle) -->
+
+<!-- layout tweaks -->
 <style>
+  /* rounded-rectangle avatar, if the sidebar is ever re-enabled */
   .author__avatar img { border-radius: 10px; }
+
+  /* use the full content width now that the author sidebar is off site-wide */
+  .page,
+  .archive {
+    width: 100% !important;
+    float: none !important;
+    clear: both;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 </style>
+
 <!-- end custom head snippets -->
