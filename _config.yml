@@ -29,7 +29,7 @@ author:
   location         : "Gainesville, FL"
   employer         : "University of Florida / IFAS"
   uri              : # personal URL, if any
-  email            : "yang.x1@ufl.edu"
+  email            : 
 
   # Academic websites
   academia         : # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=7qTsdXIAAAAJ"   # <-- PASTE your real Scholar profile URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # <-- PASTE your ORCID URL if you have one, e.g. https://orcid.org/0000-0000-0000-0000
+  orcid            : "https://orcid.org/0000-0002-5449-4224"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "xueruiycool"
+  github           : 
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
