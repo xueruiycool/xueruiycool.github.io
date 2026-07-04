@@ -1,5 +1,8 @@
 main:
   - title: "Publications"
     url: /publications/
+  - title: "Teaching & Extension"
+    url: /teaching/
   - title: "CV"
     url: /files/cv.pdf
+ 
