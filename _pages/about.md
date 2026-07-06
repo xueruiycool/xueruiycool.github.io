@@ -33,7 +33,7 @@ redirect_from:
       <p>Welcome! I work with Dr. Catherine Campbell at the <a href="https://ifas.ufl.edu/">University of Florida (IFAS)</a>, and I received my Ph.D. in Consumer Sciences (Economics Track) from <a href="https://www.osu.edu/">The Ohio State University</a>.</p>
       <p>My research examines the economic and public-health dimensions of the food system, across two connected areas: food safety economics (the illness burden, healthcare costs, and market impacts of foodborne disease and outbreaks) and household food waste and sustainable food systems (how purchasing, storage, and consumption decisions shape waste, and how behavioral interventions can improve resource use).</p>
       <p>For the food safety work, I draw on <strong>outbreak surveillance (NORS) and FDA recall enforcements</strong>, <strong>Google Trends and Nexis Uni</strong>, <strong>electronic health records</strong>, and <strong>NielsenIQ scanner and consumer panel data</strong>; for the food waste work, <strong>large national surveys</strong> and <strong>14-day Citizen Science panels</strong>. Across both, I combine causal inference and Bayesian modeling.</p>
-      <p>My research contributes to projects funded by the <strong>U.S. Department of Agriculture</strong> (NIFA and SARE), the <strong>Foundation for Food and Agriculture Research (FFAR)</strong>, and the <strong>Ohio State SEEDS</strong> program.</p>
+      <p>My research contributes to projects funded by <strong>USDA NIFA</strong> (SCRI, Hatch, and SARE), the <strong>Foundation for Food and Agriculture Research</strong> (FFAR), and <strong>Ohio State SEEDS</strong>.</p>
     </div>
     <p class="hero-contact">
       <strong>Email:</strong> yang.x1 (at) ufl.edu &nbsp;&middot;&nbsp; Gainesville, FL
