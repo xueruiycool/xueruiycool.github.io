@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <style>
 .home-hero{display:flex;flex-wrap:wrap;gap:2.6em;align-items:flex-start;margin-top:0.5em;}
 .home-hero .hero-text{flex:1 1 340px;min-width:280px;}
@@ -25,7 +24,6 @@ redirect_from:
   .home-hero h1{font-size:1.85em;}
 }
 </style>
-
 <div class="home-hero">
   <div class="hero-text">
     <h1>Xuerui Yang</h1>
@@ -34,11 +32,11 @@ redirect_from:
     <div class="hero-body">
       <p>Welcome! I work with Dr. Catherine Campbell at the <a href="https://ifas.ufl.edu/">University of Florida (IFAS)</a>, and I received my Ph.D. in Consumer Sciences (Economics Track) from <a href="https://www.osu.edu/">The Ohio State University</a>.</p>
       <p>My research examines the economic and public-health dimensions of the food system, across two connected areas: food safety economics (the illness burden, healthcare costs, and market impacts of foodborne disease and outbreaks) and household food waste and sustainable food systems (how purchasing, storage, and consumption decisions shape waste, and how behavioral interventions can improve resource use).</p>
-      <p>For the food safety work I draw on <strong>outbreak surveillance (NORS) and FDA recall enforcements </strong>, <strong>Google Trends and Nexis Uni</strong>, <strong>electronic health records</strong>, and <strong>NielsenIQ scanner and consumer panel data</strong>; for the food waste work, <strong>large national surveys</strong> and <strong>14-day Citizen Science panels</strong>. Across both, I combine causal inference and Bayesian modeling.</p>
+      <p>For the food safety work, I draw on <strong>outbreak surveillance (NORS) and FDA recall enforcements</strong>, <strong>Google Trends and Nexis Uni</strong>, <strong>electronic health records</strong>, and <strong>NielsenIQ scanner and consumer panel data</strong>; for the food waste work, <strong>large national surveys</strong> and <strong>14-day Citizen Science panels</strong>. Across both, I combine causal inference and Bayesian modeling.</p>
+      <p>My research contributes to projects funded by the <strong>U.S. Department of Agriculture</strong> (NIFA and SARE), the <strong>Foundation for Food and Agriculture Research (FFAR)</strong>, and the <strong>Ohio State SEEDS</strong> program.</p>
     </div>
     <p class="hero-contact">
-      <strong>Email:</strong> yang.x1 (at) ufl.edu<br>
-      <a href="/files/cv.pdf">Curriculum Vitae</a> &nbsp;&middot;&nbsp; <a href="https://scholar.google.com/citations?user=7qTsdXIAAAAJ">Google Scholar</a> &nbsp;&middot;&nbsp; Gainesville, FL
+      <strong>Email:</strong> yang.x1 (at) ufl.edu &nbsp;&middot;&nbsp; Gainesville, FL
     </p>
   </div>
   <div class="hero-photo">
