@@ -25,9 +25,14 @@ redirect_from:
 <a class="cv-download" href="/files/cv.pdf" target="_blank" rel="noopener">Download CV (PDF)</a>
 
 <div class="cv-section">
+<h2>Employment</h2>
+<div class="cv-entry"><div class="cv-what"><strong>Postdoctoral Associate, Community Food Systems</strong><br><span class="cv-sub">University of Florida / IFAS</span></div><div class="cv-when">2025&ndash;2027</div></div>
+</div>
+
+<div class="cv-section">
 <h2>Education</h2>
-<div class="cv-entry"><div class="cv-what"><strong>Ph.D., Consumer Sciences (Economics Track)</strong><br><span class="cv-sub">The Ohio State University &middot; Master of Applied Statistics (dual degree)</span></div><div class="cv-when">2021&ndash;2025</div></div>
-<div class="cv-entry"><div class="cv-what"><strong>M.A., Applied Economics</strong><br><span class="cv-sub">University of Michigan &middot; M.S., Industrial and Operations Engineering (dual degree)</span></div><div class="cv-when">2019&ndash;2021</div></div>
+<div class="cv-entry"><div class="cv-what"><strong>Ph.D., Consumer Sciences (Economics Track)</strong><br><strong>Master of Applied Statistics</strong> (dual degree)<br><span class="cv-sub">The Ohio State University</span></div><div class="cv-when">2021&ndash;2025</div></div>
+<div class="cv-entry"><div class="cv-what"><strong>M.A., Applied Economics</strong><br><strong>M.S., Industrial and Operations Engineering</strong> (dual degree)<br><span class="cv-sub">University of Michigan</span></div><div class="cv-when">2019&ndash;2021</div></div>
 <div class="cv-entry"><div class="cv-what"><strong>B.A., Economics (High Distinction)</strong><br><span class="cv-sub">University of Minnesota Morris</span></div><div class="cv-when">2016&ndash;2019</div></div>
 </div>
 
@@ -36,10 +41,6 @@ redirect_from:
 <p class="cv-fields">Food Safety Risk and Economics &middot; Household Food Waste &middot; Sustainable Food Systems</p>
 </div>
 
-<div class="cv-section">
-<h2>Employment</h2>
-<div class="cv-entry"><div class="cv-what"><strong>Postdoctoral Associate, Community Food Systems</strong><br><span class="cv-sub">University of Florida / IFAS</span></div><div class="cv-when">2025&ndash;2027</div></div>
-</div>
 
 <div class="cv-section">
 <h2>Honors and Awards</h2>
@@ -50,5 +51,3 @@ redirect_from:
 <li>Scholar of the College, UMN Morris (2019)</li>
 </ul>
 </div>
-
-<p class="cv-more">For the complete record, including publications, teaching, and grants, <a href="/files/cv.pdf">download the full CV (PDF)</a>.</p>
