@@ -31,7 +31,7 @@ redirect_from:
     <p class="hero-role">University of Florida / IFAS</p>
     <div class="hero-body">
       <p>Welcome! I work with Dr. Catherine Campbell at the <a href="https://ifas.ufl.edu/">University of Florida (IFAS)</a>, and I received my Ph.D. in Consumer Sciences (Economics Track) from <a href="https://www.osu.edu/">The Ohio State University</a>.</p>
-      <p>My research examines the economic and public-health dimensions of the food system, across two connected areas: food safety economics (the illness burden, healthcare costs, and market impacts of foodborne disease and outbreaks) and household food waste and sustainable food systems (how purchasing, storage, and consumption decisions shape waste, and how behavioral interventions can improve resource use).</p>
+      <p>My research develops quantitative evidence that informs public health policy and practice. I study four connected areas: foodborne disease attribution and burden; the short- and long-term consequences of foodborne disease; behavioral and institutional responses to health risks; and community food systems, including food waste, urban agriculture, Extension, and program evaluation.</p>
       <p>My research contributes to projects funded by <strong>USDA NIFA</strong> (SCRI, Hatch, and SARE), the <strong>Foundation for Food and Agriculture Research</strong> (FFAR), and <strong>Ohio State SEEDS</strong>.</p>
     </div>
     <p class="hero-contact">
