@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xuerui Yang"
 title_separator          : "-"
 name                     : &name "Xuerui Yang"
-description              : description : &description "Xuerui (ShueRay) Yang is a Postdoctoral Associate in Community Food Systems at the University of Florida/IFAS whose research develops quantitative evidence that informs public health policy and practice."
+description              : &description "Xuerui (ShueRay) Yang is a Postdoctoral Associate in Community Food Systems at the University of Florida/IFAS whose research develops quantitative evidence that informs public health policy and practice."
 url                      : https://xueruiycool.github.io   # base hostname & protocol; no trailing slash, no www
 baseurl                  : "" # user site lives at the root, so leave this empty
 repository               : "xueruiycool/xueruiycool.github.io"
