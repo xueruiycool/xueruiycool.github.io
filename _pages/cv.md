@@ -36,16 +36,6 @@ redirect_from:
 </div>
 
 <div class="cv-section">
-<h2>Research Areas</h2>
-<ul class="cv-list">
-<li>Foodborne disease attribution and burden</li>
-<li>Consequences of foodborne disease</li>
-<li>Behavioral and institutional responses to food safety risks</li>
-<li>Community food systems</li>
-</ul>
-</div>
-
-<div class="cv-section">
 <h2>Current Work</h2>
 <div class="cv-entry"><div class="cv-what"><strong>Food Safety Economics and Risk Communication</strong><br><span class="cv-sub">Disease attribution, healthcare costs, and consumer and market responses</span></div><div class="cv-when">2021&ndash;Present</div></div>
 <div class="cv-entry"><div class="cv-what"><strong>Household Food Waste and Consumer Behavior</strong><br><span class="cv-sub">Behavioral segments, daily patterns, and shopping interventions</span></div><div class="cv-when">2025&ndash;Present</div></div>
