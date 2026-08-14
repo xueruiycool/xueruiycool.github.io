@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xuerui Yang"
 title_separator          : "-"
 name                     : &name "Xuerui Yang"
-description              : &description "Xuerui Yang is a Postdoctoral Associate in Community Food Systems at the University of Florida/IFAS, studying food safety economics, household food waste, and sustainable food systems."
+description              : description : &description "Xuerui (ShueRay) Yang is a Postdoctoral Associate in Community Food Systems at the University of Florida/IFAS whose research develops quantitative evidence that informs public health policy and practice."
 url                      : https://xueruiycool.github.io   # base hostname & protocol; no trailing slash, no www
 baseurl                  : "" # user site lives at the root, so leave this empty
 repository               : "xueruiycool/xueruiycool.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"   # drop your headshot at /images/profile.png
   name             : "Xuerui Yang"
   pronouns         : # example: "she/her"
-  bio              : "Postdoctoral Associate in Community Food Systems at UF/IFAS. I study food safety economics, household food waste, and sustainable food systems."
+  bio              : "Postdoctoral Associate in Community Food Systems at UF/IFAS. I study foodborne disease burden and consequences, responses to food safety risks, and community food systems."
   location         : "Gainesville, FL"
   employer         : "University of Florida / IFAS"
   uri              : # personal URL, if any
