@@ -16,7 +16,6 @@ redirect_from:
 .cv-entry .cv-what{flex:1;}
 .cv-entry .cv-sub{color:#6b6b6b;font-size:0.92em;}
 .cv-entry .cv-when{color:#6b6b6b;white-space:nowrap;font-size:0.92em;}
-.cv-fields{line-height:1.5;margin:0;}
 .cv-list{margin:0;padding-left:1.2em;}
 .cv-list li{margin-bottom:0.35em;}
 .cv-more{margin-top:1.8em;font-size:0.92em;color:#6b6b6b;}
@@ -26,7 +25,7 @@ redirect_from:
 
 <div class="cv-section">
 <h2>Employment</h2>
-<div class="cv-entry"><div class="cv-what"><strong>Postdoctoral Associate, Community Food Systems</strong><br><span class="cv-sub">University of Florida / IFAS</span></div><div class="cv-when">2025&ndash;2027</div></div>
+<div class="cv-entry"><div class="cv-what"><strong>Postdoctoral Associate, Community Food Systems</strong><br><span class="cv-sub">Research and Extension, University of Florida / IFAS</span></div><div class="cv-when">2025&ndash;2027</div></div>
 </div>
 
 <div class="cv-section">
@@ -37,10 +36,26 @@ redirect_from:
 </div>
 
 <div class="cv-section">
-<h2>Research Fields</h2>
-<p class="cv-fields">Food Safety Risk and Economics &middot; Household Food Waste &middot; Sustainable Food Systems</p>
+<h2>Research Areas</h2>
+<ul class="cv-list">
+<li>Foodborne disease attribution and burden</li>
+<li>Consequences of foodborne disease</li>
+<li>Behavioral and institutional responses to food safety risks</li>
+<li>Community food systems</li>
+</ul>
 </div>
 
+<div class="cv-section">
+<h2>Current Work</h2>
+<div class="cv-entry"><div class="cv-what"><strong>Food Safety Economics and Risk Communication</strong><br><span class="cv-sub">Disease attribution, healthcare costs, and consumer and market responses</span></div><div class="cv-when">2021&ndash;Present</div></div>
+<div class="cv-entry"><div class="cv-what"><strong>Household Food Waste and Consumer Behavior</strong><br><span class="cv-sub">Behavioral segments, daily patterns, and shopping interventions</span></div><div class="cv-when">2025&ndash;Present</div></div>
+<div class="cv-entry"><div class="cv-what"><strong>Extension and Program Evaluation</strong><br><span class="cv-sub">GUARD and Healthy Harvest, University of Florida / IFAS</span></div><div class="cv-when">2026&ndash;Present</div></div>
+</div>
+
+<div class="cv-section">
+<h2>Professional Development</h2>
+<div class="cv-entry"><div class="cv-what"><strong>Preparing Future Faculty Program</strong><br><span class="cv-sub">Selected participant, University of Florida</span></div><div class="cv-when">Fall 2026</div></div>
+</div>
 
 <div class="cv-section">
 <h2>Honors and Awards</h2>
